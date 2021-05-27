@@ -1,0 +1,13 @@
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.exe
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.deps.json
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.runtimeconfig.json
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.runtimeconfig.dev.json
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.dll
+C:\Katas\KATA_MarsRover\KATA_MarsRover\bin\Debug\netcoreapp3.1\KATA_MarsRover.pdb
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.csprojAssemblyReference.cache
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.AssemblyInfoInputs.cache
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.AssemblyInfo.cs
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.csproj.CoreCompileInputs.cache
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.dll
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.pdb
+C:\Katas\KATA_MarsRover\KATA_MarsRover\obj\Debug\netcoreapp3.1\KATA_MarsRover.genruntimeconfig.cache
